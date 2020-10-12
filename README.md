@@ -3,12 +3,14 @@
 ### Mini-Project 1 - ECSE 551  McGill University
 
 ## Abstract
-In this project, logistic regression was used to solve two separate binary classifica-tion problems, one involving bankruptcy data and the other involving hepatitis data. Simple models were first trained to establish a benchmark. Various experimentswere then performed to attempt to improve on this result. The experiments can beclassified into feature selection and optimization parameter selection. The resultsof these experiments are presented, and the best model for each task is identified.
+In this project, logistic regression was used to solve two separate binary classifica-tion problems, one involving bankruptcy data and the other involving hepatitis data. Simple models were first trained to establish a benchmark. Various experimentswere then performed to attempt to improve on this result. The experiments can be classified into feature selection and optimization parameter selection. The results of these experiments are presented, and the best model for each task is identified.
 
 ## Repository Structure
 The repository contains 8 files:
-* 2 Colab notebook files - Classifier_, hepatitis_feature_analysis.ipynb, and bankruptcy_feature_analysis.ipynb
-* 2 Dataset files - breast-cancer-wisconsin.data and winequality-red.csv
+* 3 Colab notebook files - Miniproject1.ipynb, hepatitis_feature_analysis.ipynb, and bankruptcy_feature_analysis.ipynb
+  Miniproject1 contains all utility functions for logistic regression, and all experiments to improve model performance.
+  hepatitis_feature_analysis, bankruptcy_feature_analysis contains how we analyze hepatitis and bankruptcy data, respectively.
+* 2 Dataset files - hepatitis.csv and bankrupcy.csv 
 * 1 ReadMe file - ReadMe.md
 * 1 Project writeup - writeup.pdf
 

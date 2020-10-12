@@ -8,9 +8,9 @@ In this project, logistic regression was used to solve two separate binary class
 ## Repository Structure
 The repository contains 7 files:
 * 3 Colab notebook files - Miniproject1.ipynb, hepatitis_feature_analysis.ipynb, and bankruptcy_feature_analysis.ipynb
-  * Miniproject1 contains all utility functions for logistic regression, and all experiments to improve model performance.
-  * hepatitis_feature_analysis, bankruptcy_feature_analysis contains how we analyze hepatitis and bankruptcy data, respectively.
-* 2 Dataset files - hepatitis.csv and bankrupcy.csv 
+  * Miniproject1.ipynb contains all utility functions for logistic regression, and all experiments to improve model performance.
+  * hepatitis_feature_analysis.ipynb, bankruptcy_feature_analysis.ipynb contains how we analyze hepatitis and bankruptcy data, respectively.
+* 2 Dataset files - hepatitis.csv and bankrupcy.csv
 * 1 ReadMe file - ReadMe.md
 * 1 Project writeup - writeup.pdf
 

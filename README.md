@@ -14,7 +14,7 @@ The code.zip contains 6 files:
 * 1 ReadMe file - ReadMe.md
 
 ## Report.pdf
-All experimens are summarized in Report.pdf
+All experiments are summarized in Report.pdf
 
 ## Code Usage - (Python 3.6, Colab)
 1. Please Upload python notebook (.ipynb file) to Colab
